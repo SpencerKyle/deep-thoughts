@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/SpencerKyle/deep-thoughts/issues"
   },
-  "homepage": "https://github.com/SpencerKyle/deep-thoughts#readme",
+  "homepage": "https://peaceful-peak-75674.herokuapp.com/",
   "devDependencies": {
     "concurrently": "^7.0.0"
   }
